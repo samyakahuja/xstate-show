@@ -1,0 +1,10 @@
+/* Hide JS on page 0,2 */
+body[class*='0'] .css-10syct1-ExerciseContainer,
+body[class*='2'] .css-10syct1-ExerciseContainer {
+  display: inherit;
+}
+
+/* Hide dev tools */
+#dev-tools {
+  display: none;
+}
