@@ -1,4 +1,4 @@
-body[class*='0'] .react-workshop-app > div:last-child > div,
+body[class*='4'] .react-workshop-app > div:last-child > div,
 body[class*='2'] .react-workshop-app > div:last-child > div {
   display: inherit;
 }
